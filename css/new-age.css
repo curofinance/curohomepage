@@ -153,9 +153,9 @@ header {
   overflow-y: hidden;
   background: url("../img/bg-pattern.png"), #42f48f;
   /* fallback for old browsers */
-  background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, #42f48f, #dc2430);
+  background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, #42f48f, #09a2ef);
   /* Chrome 10-25, Safari 5.1-6 */
-  background: url("../img/bg-pattern.png"), linear-gradient(to left, #42f48f, #dc2430);
+  background: url("../img/bg-pattern.png"), linear-gradient(to left, #42f48f, #09a2ef);
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   color: white;
 }
