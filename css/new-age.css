@@ -58,7 +58,7 @@ p {
   line-height: 1.5;
   margin-bottom: 20px;
 }
-.fixed-nav-bar {
+.navbar-default {
   position: fixed;
   background-color: white;
   border-color: rgba(34, 34, 34, 0.05);
@@ -68,11 +68,6 @@ p {
   font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
   font-weight: 200;
   letter-spacing: 1px;
-}
-ul {
-    position: fixed;
-    top: 0;
-    width: 100%;
 }
 .navbar-default .navbar-header .navbar-brand {
   font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
