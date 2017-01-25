@@ -30,7 +30,7 @@ a {
   transition: all 0.35s;
   color: #222222;
 }
-a:fixed,
+a:hover,
 a:focus {
   color: #222222;
 }
