@@ -58,7 +58,7 @@ p {
   line-height: 1.5;
   margin-bottom: 20px;
 }
-.navbar-default {
+.fixed-nav-bar {
   background-color: white;
   border-color: rgba(34, 34, 34, 0.05);
   -webkit-transition: all 0.35s;
