@@ -384,7 +384,7 @@ footer ul {
 }
 footer ul li a {
   font-size: 12px;
-  color: rgba(0, 255, 0, 0.3);
+  color: rgba(0, 255, 0);
 }
 footer ul li a:hover,
 footer ul li a:focus,
