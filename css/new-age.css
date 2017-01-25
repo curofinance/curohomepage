@@ -30,7 +30,7 @@ a {
   transition: all 0.35s;
   color: #222222;
 }
-a:hover,
+a:fixed,
 a:focus {
   color: #222222;
 }
@@ -59,6 +59,7 @@ p {
   margin-bottom: 20px;
 }
 .fixed-nav-bar {
+  position: fixed;
   background-color: white;
   border-color: rgba(34, 34, 34, 0.05);
   -webkit-transition: all 0.35s;
