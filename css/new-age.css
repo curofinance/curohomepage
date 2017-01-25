@@ -28,11 +28,11 @@ a {
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
   transition: all 0.35s;
-  color: #42f48f;
+  color: #222222;
 }
 a:hover,
 a:focus {
-  color: #42f498;
+  color: #222222;
 }
 hr {
   max-width: 100px;
