@@ -398,7 +398,7 @@ footer ul li a.active {
   background: linear-gradient(#fdcc52, #fdc539);
 }
 .text-primary {
-  color: #fdcc52;
+  color: #42f48f;
 }
 .no-gutter > [class*='col-'] {
   padding-right: 0;
