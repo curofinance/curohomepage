@@ -394,8 +394,8 @@ footer ul li a.active {
 }
 .bg-primary {
   background: #42f48f;
-  background: -webkit-linear-gradient(#fdcc52, #fdc539);
-  background: linear-gradient(#fdcc52, #fdc539);
+  background: -webkit-linear-gradient(#42f48f, #fdc539);
+  background: linear-gradient(#42f48f, #fdc539);
 }
 .text-primary {
   color: #42f48f;
@@ -414,8 +414,8 @@ footer ul li a.active {
 .btn-outline:active,
 .btn-outline.active {
   color: white;
-  background-color: #fdcc52;
-  border-color: #fdcc52;
+  background-color: #42f48f;
+  border-color: #42f48f;
 }
 .btn {
   font-family: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
