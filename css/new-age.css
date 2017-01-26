@@ -454,3 +454,10 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #222222;
 }
+.photo {
+    text-align: center; /*for centering images inside*/
+}
+.photo img {
+    width: 300px; /*set the width or max-width*/
+    height: 250px; /*this makes sure to maintain the aspect ratio*/
+}
