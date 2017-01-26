@@ -106,16 +106,16 @@ p {
 .navbar-default .nav > li.active > a,
 .navbar-default .nav > li.active > a:focus {
   color: #222222 !important;
-  background-color: transparent;
+  background-color: white;
 }
 .navbar-default .nav > li.active > a:hover,
 .navbar-default .nav > li.active > a:focus:hover {
-  background-color: transparent;
+  background-color: white;
 }
 @media (min-width: 768px) {
   .navbar-default {
-    background-color: transparent;
-    border-color: transparent;
+    background-color: white;
+    border-color: white;
   }
   .navbar-default .navbar-header .navbar-brand {
     color: rgba(34, 34, 34, 0.1);
