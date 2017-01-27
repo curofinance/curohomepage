@@ -39,6 +39,10 @@ hr {
 hr.light {
   border-color: white;
 }
+a:hover,
+a:focus {
+  color: white;
+}
 h1,
 h2,
 h3,
@@ -76,7 +80,6 @@ p {
   letter-spacing: 1px;
   color: black;
 }
-.navbar-default .navbar-header .navbar-brand:hover,
 .navbar-default .navbar-header .navbar-brand:focus {
   color: black;
 }
