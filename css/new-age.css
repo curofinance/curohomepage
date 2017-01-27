@@ -11,10 +11,6 @@
 .body-font {
   font-family: 'Muli', 'Helvetica', 'Arial', 'sans-serif';
 }
-#body {
-height: 100%;
-width: 100%;
-}
 .alt-font {
   font-family: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
   text-transform: uppercase;
