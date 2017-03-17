@@ -27,5 +27,9 @@
             top: 50
         }
     })
+    
+    $('.message a').click(function(){
+   $('form').animate({height: "toggle", opacity: "toggle"}, "slow");
+});
 
 })(jQuery); // End of use strict
