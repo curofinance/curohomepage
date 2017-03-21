@@ -467,8 +467,8 @@ body {
 
 input:focus {
   outline: none;
-  outline: 2px solid #E86C8D;
-  box-shadow: 0 0 2px #E86C8D;
+  outline: 2px solid #3BDB80;
+  box-shadow: 0 0 2px #3BDB80;
 }
 <div style="text-align:center">
 div {
